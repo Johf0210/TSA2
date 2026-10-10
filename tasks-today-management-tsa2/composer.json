@@ -1,0 +1,8 @@
+{
+    "name": "student/tasks-today-management",
+    "description": "IT0049 TSA1 Tasks for Today Management System",
+    "type": "project",
+    "require": {
+        "codeigniter4/framework": "^4.4"
+    }
+}
